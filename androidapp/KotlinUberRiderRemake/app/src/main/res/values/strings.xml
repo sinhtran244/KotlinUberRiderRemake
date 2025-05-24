@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">KotlinUberRiderRemake</string>
+    <string name="continue_text">Continue</string>
+    <string name="register_text">Register</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="title_activity_driver_home">DriverHomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_exit">Sign Out</string>
+    <string name="menu_slideshow">Slide show</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="permission_require">Permission Location require</string>
+    <string name="drivers_not_found">Drivers not found</string>
+    <string name="key_not_found">Key not found\n</string>
+    <string name="google_api_key">google_api_key</string>
+    <string name="welcome">welcome\n</string>
+    <string name="choose_saved_place">choose saved place\n</string>
+    <string name="google_maps_key">google maps key\n</string>
+</resources>
